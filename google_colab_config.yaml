@@ -1,0 +1,6 @@
+path: '/content/drive/MyDrive/data_yolo' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/valid  # val images (relative to 'path')
+
+names:
+  0: shelter
